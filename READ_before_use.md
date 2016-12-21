@@ -1,7 +1,7 @@
 # MMEE
 Files from the MMEE course 2016
 
-There are three branches:
+There are three branches that you can select:
 - qPCR
 - Sequencing
 - ProteinPart
